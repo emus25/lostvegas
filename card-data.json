@@ -1,0 +1,174 @@
+{
+  "version": 2,
+  "exportedAt": "2026-04-28T21:39:49.192Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": " Catherine Harrington",
+      "lname": null,
+      "pronouns": null,
+      "name": null,
+      "title": "",
+      "biz": "Lost Vegas Casino Hire",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal": "",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/5ySMhCvf/card-(1).png",
+      "shareImg": "https://i.postimg.cc/5ySMhCvf/card-(1).png",
+      "bookMarkImg": "https://i.postimg.cc/5ySMhCvf/card-(1).png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#fe148a",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#000000",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#fe148a",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#000000",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "Office",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": " 01344 441 626",
+        "label": "Your Office Number"
+      },
+      {
+        "name": "Mobile",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "07859 3444 88",
+        "label": "Your Mobile Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "lostvegasfuncasino@gmail.com",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://www.lost-vegas.co.uk/",
+        "label": "Your Website URL"
+      },
+      {
+        "name": "location",
+        "placeholder": "https://goo.gl/maps/location",
+        "value": "https://www.google.com/maps/place/Lost+Vegas+Casino+Hire/@51.3901974,-0.758586,608m/data=!3m1!1e3!4m6!3m5!1s0x48768086cdc70293:0xf4061baf6a330189!8m2!3d51.3898902!4d-0.7587935!16s%2Fg%2F11btwv5gdj?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D",
+        "label": "Your Maps Location URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      },
+      {
+        "name": "facebook",
+        "placeholder": "https://facebook.com/UserName",
+        "value": "https://www.facebook.com/people/Lost-Vegas-Fun-Casino-Hire-and-Entertainment/100063752914761/",
+        "color": "#1877f2",
+        "label": "Your Facebook URL"
+      },
+      {
+        "name": "linkedin",
+        "placeholder": "https://linkedin.com/in/UserName",
+        "value": "https://www.linkedin.com/in/lostvegasfuncasinohire/",
+        "color": "#0077b5",
+        "label": "Your Linkedin URL"
+      },
+      {
+        "name": "twitter",
+        "placeholder": "https://twitter.com/UserName",
+        "value": "https://x.com/casinocath",
+        "color": "#000",
+        "label": "Your Twitter URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Review us on Google!",
+            "link": "https://g.page/r/CYkBM2qvGwb0EAE/review",
+            "contentType": "customButton"
+          },
+          {
+            "name": "googlelogonewest.png",
+            "title": "googlelogonewest",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "png",
+            "mime": "image/png",
+            "info": null,
+            "file": "media/googlelogonewest.png",
+            "coverFile": null,
+            "coverExt": null
+          }
+        ]
+      }
+    ]
+  }
+}
